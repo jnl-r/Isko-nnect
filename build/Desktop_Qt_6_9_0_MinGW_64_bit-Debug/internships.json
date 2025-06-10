@@ -1,0 +1,82 @@
+[
+    {
+        "courses": ["BS Computer Science", "BS Mathematics"],
+        "deadline": "July 15, 2025",
+        "description": "Develop fintech solutions using Python and React.",
+        "link": "cebutechcouncil.org/internships",
+        "name": "Cebu Fintech Developer Internship",
+        "yearLevel": "3rd Year College"
+    },
+    {
+        "courses": ["B Fine Arts (Product Design)", "BA Communication"],
+        "deadline": "None",
+        "description": "Create cultural heritage content for social media.",
+        "link": "sugbocreatives.ph/intern",
+        "name": "Sugbo Creative Media Internship",
+        "yearLevel": "2nd Year College"
+    },
+    {
+        "courses": ["BS Biology"],
+        "deadline": "August 30, 2025",
+        "description": "Marine conservation fieldwork in Mactan Island.",
+        "link": "cebucoral.org/internships",
+        "name": "Cebu Coastal Research Intern",
+        "yearLevel": "3rd Year College"
+    },
+    {
+        "courses": ["BA Management", "BA Political Science"],
+        "deadline": "July 1, 2025",
+        "description": "Community development projects in mountain barangays.",
+        "link": "cebuNGOconnect.gov.ph/intern",
+        "name": "Sierra Madre NGO Management Trainee",
+        "yearLevel": "4th Year College"
+    },
+    {
+        "courses": ["BS Computer Science"],
+        "deadline": "None",
+        "description": "Year-round opportunity for cybersecurity monitoring.",
+        "link": "cebucity.gov.ph/digital-security",
+        "name": "Cebu City Cybersecurity Apprenticeship",
+        "yearLevel": "3rd Year College"
+    },
+    {
+        "courses": ["BS Statistics", "BA Management"],
+        "deadline": "October 15, 2025",
+        "description": "Analyze tourism data from Cebu airports and heritage sites.",
+        "link": "tourismcebu.ph/data-internships",
+        "name": "Visayas Tourism Analytics Intern",
+        "yearLevel": "2nd Year College"
+    },
+    {
+        "courses": ["BA Psychology"],
+        "deadline": "September 5, 2025",
+        "description": "Support mental health programs in public schools.",
+        "link": "cebumentalhealth.org/interns",
+        "name": "Youth Mental Health Advocate",
+        "yearLevel": "4th Year College"
+    },
+    {
+        "courses": ["B Fine Arts (Studio Arts)", "BA Communication"],
+        "deadline": "None",
+        "description": "Create murals and installations for Cebu public spaces.",
+        "link": "artspacecebu.com/community-projects",
+        "name": "Cebu Public Art Collective",
+        "yearLevel": "3rd Year College"
+    },
+    {
+        "courses": ["BS Biology", "BS Mathematics"],
+        "deadline": "November 20, 2025",
+        "description": "Fieldwork includes kayaking and sensor deployment.",
+        "link": "cebuwatershed.org/interns",
+        "name": "Mactan Watershed Research Assistant",
+        "yearLevel": "2nd Year College"
+    },
+    {
+        "courses": ["BS Computer Science", "BS Statistics"],
+        "deadline": "August 10, 2025",
+        "description": "Develop AI models for Cebuano language processing.",
+        "link": "cebuaistartup.com/careers",
+        "name": "Bisaya AI Training Specialist",
+        "yearLevel": "4th Year College"
+    }
+]

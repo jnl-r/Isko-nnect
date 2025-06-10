@@ -1,0 +1,44 @@
+[
+    {
+        "availability": "Booked",
+        "capacity": "100",
+        "number": "AS Hall",
+        "type": "Conference"
+    },
+    {
+        "availability": "Available",
+        "capacity": "100",
+        "number": "Performing Arts Hall",
+        "type": "Conference"
+    },
+    {
+        "availability": "Available",
+        "capacity": "30",
+        "number": "Audio Visual Room",
+        "type": "Presentation"
+    },
+    {
+        "availability": "Available",
+        "capacity": "60",
+        "number": "Lawak Sinehan",
+        "type": "Conference"
+    },
+    {
+        "availability": "Available",
+        "capacity": "20",
+        "number": "Union Building",
+        "type": "Conference"
+    },
+    {
+        "availability": "Available",
+        "capacity": "20",
+        "number": "Management Bldg. Room 1",
+        "type": "Lecture"
+    },
+    {
+        "availability": "Available",
+        "capacity": "30",
+        "number": "TLRC ",
+        "type": "Workspace"
+    }
+]

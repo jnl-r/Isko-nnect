@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ui/RightWelcomePage/RightWelcomePage.qml</file>
+        <file>ui/LeftWelcomePage/LeftWelcomePage.qml</file>
+        <file>ui/RightLogin/RightLogin.qml</file>
+        <file>ui/BottomBar/BottomBar.qml</file>
+        <file>ui/AdminDashboard/AdminDashboard.qml</file>
+        <file>ui/StudentDashboard/StudentDashboard.qml</file>
+        <file>ui/assets/Admin.png</file>
+        <file>ui/assets/Scholarship.png</file>
+        <file>ui/assets/Student.png</file>
+        <file>ui/assets/Tutoring.png</file>
+        <file>ui/assets/UP.png</file>
+        <file>ui/assets/upcebLogo.png</file>
+        <file>ui/assets/link.png</file>
+        <file>ui/assets/Menu.png</file>
+        <file>ui/assets/Room.png</file>
+        <file>ui/assets/Rubik.ttf</file>
+        <file>ui/assets/scholar.png</file>
+        <file>ui/assets/dashboard.png</file>
+        <file>ui/assets/event.png</file>
+        <file>ui/assets/Inter.ttf</file>
+        <file>ui/assets/Internships.png</file>
+        <file>ui/assets/Library.png</file>
+        <file>ui/assets/announcements.png</file>
+        <file>ui/assets/Back.png</file>
+        <file>ui/assets/calendar.png</file>
+        <file>ui/assets/clock.png</file>
+        <file>ui/assets/MagnifyinGlass.png</file>
+        <file>ui/assets/scholaricon.png</file>
+        <file>ui/assets/employee.png</file>
+        <file>ui/assets/LibraryEdited.png</file>
+        <file>ui/assets/classroom.jpg</file>
+        <file>ui/assets/classroom3.jpg</file>
+        <file>ui/assets/classroom4.jpg</file>
+        <file>ui/assets/UP logo.png</file>
+    </qresource>
+</RCC>

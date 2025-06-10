@@ -1,0 +1,22 @@
+[
+    {
+        "course": "BS Biology",
+        "date": "2025-06-18",
+        "motivation": "Tutoring helps me fund my conservation research, but more importantly, it gives me a platform to inspire students.",
+        "name": "Kaito Tanaka",
+        "qualifications": "Coral Reef Research Grant recipient, Best Presenter at Central Visayas Science Symposium, 98% in Bio 11/12. Volunteer educator at Olango Wildlife Sanctuary.",
+        "status": "Pending",
+        "subjects": "Bio 11, Bio 12, Environmental Science 1",
+        "yearLevel": "2nd Year"
+    },
+    {
+        "course": "BA Management",
+        "date": "2025-06-22",
+        "motivation": "As someone managing a real Cebuano business, I bring practical knowledge that turns textbook theories into relatable, real-world examples.",
+        "name": "Lorenzo Villanueva",
+        "qualifications": "Entrepreneurship Awardee 2024, TA for Mgt 101, 3.88 GPA. Developed financial literacy modules for Lapu-Lapu City vendors.",
+        "status": "Pending",
+        "subjects": "Mgt 101, Accounting 1, Economics 11",
+        "yearLevel": "4th Year"
+    }
+]

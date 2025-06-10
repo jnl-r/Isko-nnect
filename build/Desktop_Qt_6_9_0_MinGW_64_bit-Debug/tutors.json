@@ -1,0 +1,74 @@
+[
+    {
+        "course": "BS Computer Science",
+        "name": "Janelle Angeli Ranario",
+        "status": "Approved",
+        "yearLevel": "1st Year College"
+    },
+    {
+        "course": "BA Political Science",
+        "name": "Vince Antolihao",
+        "status": "Approved",
+        "yearLevel": "2nd Year College"
+    },
+    {
+        "course": "BS Biology",
+        "name": "Sofia Ramirez",
+        "status": "Pending",
+        "yearLevel": "3rd Year College"
+    },
+    {
+        "course": "BA Communication",
+        "name": "Miguel Torres",
+        "status": "Approved",
+        "yearLevel": "4th Year College"
+    },
+    {
+        "course": "BS Mathematics",
+        "name": "Elena Chen",
+        "status": "Pending",
+        "yearLevel": "2nd Year College"
+    },
+    {
+        "course": "B Fine Arts (Product Design)",
+        "name": "Diego Martinez",
+        "status": "Approved",
+        "yearLevel": "3rd Year College"
+    },
+    {
+        "course": "BA Psychology",
+        "name": "Olivia Thompson",
+        "status": "Pending",
+        "yearLevel": "1st Year College"
+    },
+    {
+        "course": "BS Statistics",
+        "name": "James Wilson",
+        "status": "Approved",
+        "yearLevel": "4th Year College"
+    },
+    {
+        "course": "BA Management",
+        "name": "Sophia Davis",
+        "status": "Pending",
+        "yearLevel": "2nd Year College"
+    },
+    {
+        "course": "BS Computer Science",
+        "name": "Liam Johnson",
+        "status": "Approved",
+        "yearLevel": "3rd Year College"
+    },
+    {
+        "course": "B Fine Arts (Product Design)",
+        "name": "Julia Alexa",
+        "status": "Approved",
+        "yearLevel": "3rd Year"
+    },
+    {
+        "course": "BS Computer Science",
+        "name": "Miguel Santos",
+        "status": "Approved",
+        "yearLevel": "4th Year"
+    }
+]

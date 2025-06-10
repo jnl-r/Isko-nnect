@@ -1,0 +1,92 @@
+[
+    {
+        "courses": ["BS Mathematics", "BS Computer Science", "BS Biology", "BS Statistics"],
+        "deadline": "June 30, 2025",
+        "description": "The student must have a high aptitude in Math and Science.",
+        "financialNeed": "Yes",
+        "link": "https://philscholar.com/dost-sei-jlss/",
+        "name": "DOST Junior Level Science Scholarship",
+        "yearLevel": "2nd Year College"
+    },
+    {
+        "courses": ["BS Computer Science", "BS Statistics", "BS Biology", "BS Mathematics"],
+        "deadline": "July 15, 2025",
+        "description": "Students from State Universities and Colleges (SUCs) are eligible to apply.",
+        "financialNeed": "No",
+        "link": "https://chedscholarship.com/",
+        "name": "Ched Merit Scholarship",
+        "yearLevel": "3rd Year College"
+    },
+    {
+        "courses": ["B Fine Arts (Product Design)", "B Fine Arts (Studio Arts)", "BA Communication"],
+        "deadline": "August 1, 2025",
+        "description": "Portfolio of Cebuano cultural artworks required. Renewable for thesis year.",
+        "financialNeed": "Yes",
+        "link": "upcebu.edu.ph/ace-scholarship",
+        "name": "Arts & Culture Excellence (ACE) Scholarship",
+        "yearLevel": "1st Year College"
+    },
+    {
+        "courses": ["BS Biology"],
+        "deadline": "July 30, 2025",
+        "description": "Fieldwork in Cebu's marine sanctuaries required. SCUBA certification preferred.",
+        "financialNeed": "Yes",
+        "link": "projectsharklink.org/grants",
+        "name": "SharkLink Coastal Conservation Grant",
+        "yearLevel": "3rd Year College"
+    },
+    {
+        "courses": ["BA Political Science", "BA Management"],
+        "deadline": "September 5, 2025",
+        "description": "For student leaders from Cebu Province towns. Requires barangay certification.",
+        "financialNeed": "Yes",
+        "link": "cebu.gov.ph/youth-leadership-fund",
+        "name": "Sugbu Young Leaders Fund",
+        "yearLevel": "Senior High School"
+    },
+    {
+        "courses": ["BS Computer Science"],
+        "deadline": "August 20, 2025",
+        "description": "Exclusive for female developers. Requires GitHub portfolio of Python/Java projects.",
+        "financialNeed": "No",
+        "link": "womentechmakerscebu.org/scholarships",
+        "name": "Women Techmakers Cebu Fellowship",
+        "yearLevel": "2nd Year College"
+    },
+    {
+        "courses": ["BA Psychology", "BS Biology"],
+        "deadline": "October 15, 2025",
+        "description": "Supports mental health research in Central Visayas. IRB-approved proposal required.",
+        "financialNeed": "No",
+        "link": "cebumentalhealth.org/research-grants",
+        "name": "Central Visayas Mental Health Research Award",
+        "yearLevel": "4th Year College"
+    },
+    {
+        "courses": ["BS Mathematics", "BS Statistics"],
+        "deadline": "November 10, 2025",
+        "description": "For data science projects analyzing Cebu's urbanization patterns.",
+        "financialNeed": "Yes",
+        "link": "smartcebucity.org/scholarships",
+        "name": "Smart Cebu Data Fellowship",
+        "yearLevel": "3rd Year College"
+    },
+    {
+        "courses": ["BA Management"],
+        "deadline": "July 1, 2025",
+        "description": "Internship at Cebu-based startups required. Preference for micro-business proposals.",
+        "financialNeed": "Yes",
+        "link": "startupcebu.org/student-entrepreneurs",
+        "name": "Cebuano Young Entrepreneurs Program",
+        "yearLevel": "2nd Year College"
+    },
+    {
+        "courses": ["BA Communication", "B Fine Arts (Product Design)"],
+        "deadline": "December 5, 2025",
+        "description": "Create content promoting Cebuano heritage. Multimedia portfolio submission.",
+        "financialNeed": "No",
+        "link": "sugbokultura.ph/grants",
+        "name": "Sugbo Kultura Digital Media Grant",
+        "yearLevel": "4th Year College"
+    }
+]
