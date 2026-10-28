@@ -15,13 +15,9 @@ One desktop app for announcements, events, scholarships, tutoring, internships a
 
 <img src="docs/readme/welcome.png" alt="Isko-nnect welcome screen" width="100%">
 
-<img src="docs/readme/divider.png" alt="" width="100%">
-
 ## Why Isko-nnect
 
 Student services at UP Cebu are spread across Facebook pages, bulletin boards, emails and separate offices. Isko-nnect puts them in one place. Students see everything they can apply for or book, and administrators manage it all from a single dashboard.
-
-<img src="docs/readme/divider.png" alt="" width="100%">
 
 ## Two ways in
 
@@ -37,8 +33,6 @@ Students sign in with their name and 9-digit student number. Administrators sign
     <td align="center"><sub>Admin login</sub></td>
   </tr>
 </table>
-
-<img src="docs/readme/divider.png" alt="" width="100%">
 
 ## For students
 
@@ -71,8 +65,6 @@ Find internships that match your program and year level.
 See every campus room with its type and capacity, then book one for a time slot.
 
 <img src="docs/readme/rooms.png" alt="Rooms page" width="100%">
-
-<img src="docs/readme/divider.png" alt="" width="100%">
 
 ## For administrators
 
@@ -113,8 +105,6 @@ Post announcements and events, add scholarships and internships, approve tutor a
   </tr>
 </table>
 
-<img src="docs/readme/divider.png" alt="" width="100%">
-
 ## How it's built
 
 The interface is written in **QML** and the logic in **C++** with **Qt 6**. A C++ `FileManager` class is exposed to QML and reads and writes all app data as **JSON files**: one file each for announcements, events, scholarships, internships, tutors, tutor applications, tutor requests and rooms. A change an admin makes shows up on the student side right away.
@@ -148,8 +138,6 @@ Isko-nnect/
 3. The app reads its JSON data files from the folder it runs in. Copy the sample `.json` files into your build folder to start with data.
 
 </details>
-
-<img src="docs/readme/divider.png" alt="" width="100%">
 
 <div align="center">
 <sub>A student project for the University of the Philippines Cebu.</sub>
